@@ -1,3 +1,10 @@
+REM ##################################################
+REM # Tool    : Domain Controller Enumerator         #
+REM # Version : 1.0                                  #
+REM # Runs on : Windows                              #
+REM # Source  : https://github.com/pr2h/             #
+REM # .bat file                                      #
+REM ##################################################
 echo ------------------------------------------------------------------------------------------------- > dc_enum_out.txt
 echo "Computer Domain:" >> dc_enum_out.txt
 systeminfo | findstr /B /C:Domain >> dc_enum_out.txt
