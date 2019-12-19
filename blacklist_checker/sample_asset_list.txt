@@ -1,0 +1,5 @@
+10.10.10.100
+10.10.1 # faulty input, but the program can identify this
+fksdfklsdlfjklsdjlkjfk.com # the program will resolve this as IP (if it exists) and compare against list
+dasdasdasfffsdcsdf.com
+10.100.1.100
