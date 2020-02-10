@@ -1,13 +1,13 @@
-# automated_url_opener
+# url_opener
 
 <p>
 ##################################################<br>
-# Tool    : url_opener                           
-# Version : 1.2                                  
-# Runs on : Windows                              
-# Source  : https://github.com/pr2h/             
-# Coded with Python 3                            
-# Release Date : 10th February 2020              
+# Tool    : url_opener                           <br>
+# Version : 1.2                                  <br>
+# Runs on : Windows                              <br>
+# Source  : https://github.com/pr2h/             <br><br>
+# Coded with Python 3                            <br>
+# Release Date : 10th February 2020              <br>
 ##################################################</p><p><b>[ pr2h ]</b></p><p>Purpose    : Automation script used to open all URLs from a file in Firefox/ Chrome, creating a new tab for each URL.</p><p>This project is licensed under the terms of the MIT license.</p>
 <p>
 SAMPLE USAGE: python url_opener.py --browser <firefox/ chrome> --tabs <number_of_tabs> --file <filename> --whitelistcodes <response_codes><br>
